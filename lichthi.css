@@ -1,0 +1,33 @@
+@charset "utf-8";										
+/* CSS Document */
+{padding:0px; margin:0px;
+	text-align: center;
+	margin: auto;
+ } 
+
+
+.Main{
+	width: 1400px;
+ 	height: 300px;
+ 	background: #26A69A;
+}
+.Menu{
+	width: 1400px;
+	height: 100px;
+}
+.MenuLeft{
+	width: 600px;
+	height:50px;
+	float:left;
+}
+.MenuRight{
+	width: 600px;
+	height:50px;
+	float:left;
+
+}
+.Wapper{
+	width: 1200px;
+	height: 200px;
+}
+
